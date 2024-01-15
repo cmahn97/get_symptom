@@ -1,0 +1,6 @@
+requests
+typing
+pandas
+scikit-learn
+fastapi
+uvicorn

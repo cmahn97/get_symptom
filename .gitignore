@@ -162,5 +162,4 @@ cython_debug/
 # Local repository
 .DS_Store
 sample.py
-check.py
 data/
